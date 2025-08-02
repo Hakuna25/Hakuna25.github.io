@@ -22,6 +22,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎊🎊 Our paper is accepted to the CoRL 2025!
 - *2025.06*: &nbsp;🎊🎊 Our soft-gripper co-design demo is accepted to the RSS 2025 Workshop!
 - *2025.05*: &nbsp;🎊🎊 Homepage has been setup! 
 
@@ -39,7 +40,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 [Co-Design of Soft Gripper with Neural Physics](https://yswhynot.github.io/codesign-soft/)
 
-May 2025, In submission to *CoRL 2025*
+Sep. 2025, *CoRL 2025*
 
 Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
