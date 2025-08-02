@@ -40,7 +40,7 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 
 [Co-Design of Soft Gripper with Neural Physics](https://yswhynot.github.io/codesign-soft/)
 
-Sep. 2025, *CoRL 2025*
+Conference on Robot Learning (**CoRL**), 2025.
 
 Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
