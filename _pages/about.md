@@ -38,14 +38,15 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 </div>
 <div class='paper-box-text' markdown="1">
 
-[Co-Design of Soft Gripper with Neural Physics](https://yswhynot.github.io/codesign-soft/)
+Co-Design of Soft Gripper with Neural Physics
 
 Conference on Robot Learning (**CoRL**), 2025.
 
+[[webpage](https://yswhynot.github.io/codesign-soft/)] [[arXiv](https://arxiv.org/pdf/2505.20404)] [[code](https://github.com/yswhynot/codesign-soft-gripper)] [[hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware)]
+
 Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
-<span style="color:rgba(0, 0, 0, 0.4)">A co-design framework that generates an optimized soft gripper’s block-wise stiffness distribution and its grasping pose, using a neural physics model trained in simulation.</span>
- 
+
 </div>
 </div>
 
