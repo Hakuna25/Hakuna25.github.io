@@ -33,6 +33,24 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 <div class='paper-box-image'>
   <div>
   <!-- <div class="badge">CVPR 2016</div> -->
+<img src='images/teaser.jpg' alt="sym" width="100%">
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+Learning to Design Soft Hands using Reward Models
+
+in submission to International Conference on Robotics & Automation (**ICRA**), 2026.
+
+Xueqian Bai, Nick Hansen, Adabhav Singh, Mike Tolley, Yan Duan, Pieter Abbeel, Xiaolong Wang, Sha Yi
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'>
+  <div>
+  <!-- <div class="badge">CVPR 2016</div> -->
 <img src='images/softgripper.png' alt="sym" width="100%">
   </div>
 </div>
