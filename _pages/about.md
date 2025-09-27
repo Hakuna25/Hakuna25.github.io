@@ -42,7 +42,7 @@ Learning to Design Soft Hands using Reward Models
 
 in submission to International Conference on Robotics & Automation (**ICRA**), 2026.
 
-Xueqian Bai, Nick Hansen, Adabhav Singh, Mike Tolley, Yan Duan, Pieter Abbeel, Xiaolong Wang, Sha Yi
+**Xueqian Bai**, Nick Hansen, Adabhav Singh, Mike Tolley, Yan Duan, Pieter Abbeel, Xiaolong Wang, Sha Yi
 
 </div>
 </div>
