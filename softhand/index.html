@@ -56,8 +56,8 @@ video::-webkit-media-controls-mute-button {
       color: #b62424 !important;
     }
     header.hero { position: relative; height: auto; overflow: hidden; }
-    header.hero video { width: 100%; height: 100%; object-fit: cover; }
-    header.hero .overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); }
+    header.hero video { width: 100%; height: auto; object-fit: cover; }
+    header.hero .overlay { position: absolute; top: 0; left: 0; width: 100%; height: 99%; background: rgba(0, 0, 0, 0.5); }
     header.hero .hero-content { position: absolute; bottom: 1rem; left: 50%; transform: translateX(-50%); text-align: center; color: #fff; }
     .gallery .card { border: none; border-radius: .5rem; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
     pre { background: #dcdcdc; color: #000000; padding: 1rem; border-radius: .25rem; overflow: auto; }
@@ -81,7 +81,7 @@ video::-webkit-media-controls-mute-button {
   <!-- Hero -->
   <header class="hero">
     <!-- <img src="material/teaser.png" alt="Teaser"> -->
-    <video autoplay muted loop playsinline preload="metadata" style="width:100%; height:auto; border-radius:8px;">
+    <video autoplay muted loop playsinline preload="metadata" style="width:100%; height:auto; border-radius:0.1px;">
             <source src="material/teaser.webm" type="video/webm">
         </video>  
     <div class="overlay"></div>
@@ -182,7 +182,7 @@ simulation and a co-trained reward model. The action distribution ultimately con
                 Human hand poses captured by the Meta Quest 3 are converted into soft-hand motion control commands for real-time teleoperation.
                 The grasping pose, prismatic joint displacement, and tendon motion are collected and augmented in simulation.                
                 </p>
-                <video controls autoplay muted loop playsinline preload="metadata" style="width:100%; max-width:800px; border-radius:8px;">
+                <video controls autoplay muted loop playsinline preload="metadata" style="width:100%; max-width:800px; border-radius:2px;">
             <source src="material/teleop.webm" type="video/webm">
         </video>  
             </div>
