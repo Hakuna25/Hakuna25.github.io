@@ -64,7 +64,7 @@ Co-Design of Soft Gripper with Neural Physics
 
 Conference on Robot Learning (**CoRL**), 2025.
 
-[[webpage](https://yswhynot.github.io/codesign-soft/)] [[arXiv](https://arxiv.org/pdf/2505.20404)] [[code](https://github.com/yswhynot/codesign-soft-gripper)] [[hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware)]
+[[webpage](https://yswhynot.github.io/codesign-soft/)] [[arXiv](https://arxiv.org/pdf/2505.20404)] [[code](https://github.com/yswhynot/codesign-soft-gripper)] [[hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware)] [[spotlight](https://www.youtube.com/watch?v=rh2oxU1MCb0&t=8041)]
 
 Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
 
