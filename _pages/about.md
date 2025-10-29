@@ -53,7 +53,9 @@ in submission to International Conference on Robotics & Automation (**ICRA**), 2
 <div class='paper-box-image'>
   <div>
   <!-- <div class="badge">CVPR 2016</div> -->
-<img src='images/softgripper.png' alt="sym" width="100%">
+<video autoplay muted loop playsinline preload="metadata" style="width:100%; height:auto; border-radius:0.1px;">
+            <source src="images/corl25.webm" type="video/webm">
+        </video>  
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
