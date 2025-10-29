@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). Before coming to UC San Diego, I received my B.E. in Artificial Intelligence from [Beijing University of Chemical Technology](https://en.wikipedia.org/wiki/Beijing_University_of_Chemical_Technology) in 2024. My research interests include soft robot design, reinforcement learning and machine learning. 
+Hi, there! Here's Xueqian. I'm currently a second-year master student at [UC San Diego](https://ucsd.edu/), advised by [Prof. Xiaolong Wang](https://xiaolonw.github.io/). Before coming to UC San Diego, I received my B.E. in Artificial Intelligence from [Beijing University of Chemical Technology](https://en.wikipedia.org/wiki/Beijing_University_of_Chemical_Technology) in 2024. My research interests include soft robot design, reinforcement learning and machine learning. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -41,6 +41,8 @@ Hi, there! Here's Xueqian. I'm currently a first-year master student at [UC San 
 Learning to Design Soft Hands using Reward Models
 
 in submission to International Conference on Robotics & Automation (**ICRA**), 2026.
+
+[[webpage](https://hakuna25.github.io/softhand/)] [[arXiv](https://arxiv.org/abs/2510.17086)]
 
 **Xueqian Bai**, Nick Hansen, Adabhav Singh, Mike Tolley, Yan Duan, Pieter Abbeel, Xiaolong Wang, Sha Yi
 
