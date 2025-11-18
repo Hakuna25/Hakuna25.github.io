@@ -133,7 +133,16 @@ Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
 - *2022.06 - 2024.05*, Research Intern, Multi-agent Reinforcement Learning in Pursuit-Evasion Game. Advisor: Prof. Xiao Wang, Beijing University of Chemical Technology.
 - *2023.09 - 2024.04*, Research Intern, [Distributed Reinforcement Learning Framework](https://github.com/Hakuna25/RL-branch), WiseWorker, Beijing, China.
 
+<p>
+  <img 
+    src="https://visitor-badge.laobi.icu/badge?page_id=https://hakuna25.github.io/" 
+    alt="visitor badge"
+  />
+</p>
+
 <div style="text-align: right; font-size: 14px; margin-right:10px; margin-top:65px">
   <span style="font-style: italic;"> Template from <a style=" text-decoration: underline;" href="https://rayeren.github.io/">this guy</a>  
   </span>
 </div>
+
+
