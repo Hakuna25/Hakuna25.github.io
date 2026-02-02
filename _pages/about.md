@@ -22,6 +22,7 @@ Hi, there! Here's Xueqian. I'm currently a second-year master student at [UC San
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎊🎊 Our paper is accepted to the ICRA 2026!
 - *2025.08*: &nbsp;🎊🎊 Our paper is accepted to the CoRL 2025!
 - *2025.06*: &nbsp;🎊🎊 Our soft-gripper co-design demo is accepted to the RSS 2025 Workshop!
 - *2025.05*: &nbsp;🎊🎊 Homepage has been setup! 
