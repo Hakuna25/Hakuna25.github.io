@@ -40,7 +40,7 @@ Hi, there! Here's Xueqian. I'm currently a second-year master student at [UC San
 
 Learning to Design Soft Hands using Reward Models
 
-in submission to International Conference on Robotics & Automation (**ICRA**), 2026.
+International Conference on Robotics & Automation (**ICRA**), 2026.
 
 [[webpage](https://hakuna25.github.io/softhand/)] [[arXiv](https://arxiv.org/abs/2510.17086)]
 
