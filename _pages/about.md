@@ -45,7 +45,7 @@ International Conference on Robotics & Automation (**ICRA**), 2026.
 
 [[webpage](https://hakuna25.github.io/softhand/)] [[arXiv](https://arxiv.org/abs/2510.17086)][[Twitter](https://x.com/baicrystal25/status/1983968261579608168)]
 
-**Xueqian Bai**, Nicklas Hansen, Adabhav Singh, Michael T. Tolley, Yan Duan, Pieter Abbeel, Xiaolong Wang, Sha Yi
+**Xueqian Bai**, [Nicklas Hansen(https://www.nicklashansen.com/)], Adabhav Singh, [Michael T. Tolley(https://tolley.eng.ucsd.edu/)], [Yan Duan(http://rockyduan.com/)], [Pieter Abbeel(https://people.eecs.berkeley.edu/~pabbeel/)], [Xiaolong Wang(https://xiaolonw.github.io/index.html)], [Sha Yi(https://yswhynot.github.io/)]
 
 </div>
 </div>
@@ -67,7 +67,7 @@ Conference on Robot Learning (**CoRL**), 2025.
 
 [[webpage](https://yswhynot.github.io/codesign-soft/)] [[arXiv](https://arxiv.org/pdf/2505.20404)] [[code](https://github.com/yswhynot/codesign-soft-gripper)] [[hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware)] [[spotlight](https://www.youtube.com/watch?v=rh2oxU1MCb0&t=8041)]
 
-Sha Yi<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, Jianglong Ye, Michael T. Tolley and Xiaolong Wang
+[Sha Yi(https://yswhynot.github.io/)]<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, [Jianglong Ye(https://jianglongye.com/)], [Michael T. Tolley(https://tolley.eng.ucsd.edu/)] and [Xiaolong Wang(https://xiaolonw.github.io/index.html)]
 
 
 </div>
