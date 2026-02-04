@@ -41,9 +41,9 @@ Hi, there! Here's Xueqian. I'm currently a second-year master student at [UC San
 
 Learning to Design Soft Hands using Reward Models
 
-International Conference on Robotics & Automation (**ICRA**), 2026.
+*International Conference on Robotics & Automation* (***ICRA*** 2026)
 
-[[webpage](https://hakuna25.github.io/softhand/)] [[arXiv](https://arxiv.org/abs/2510.17086)][[Twitter](https://x.com/baicrystal25/status/1983968261579608168)]
+[webpage](https://hakuna25.github.io/softhand/) / [arXiv](https://arxiv.org/abs/2510.17086) / [twitter](https://x.com/baicrystal25/status/1983968261579608168)
 
 **Xueqian Bai**, [Nicklas Hansen](https://www.nicklashansen.com/), Adabhav Singh, [Michael T. Tolley](https://tolley.eng.ucsd.edu/), [Yan Duan](http://rockyduan.com/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Xiaolong Wang](https://xiaolonw.github.io/index.html), [Sha Yi](https://yswhynot.github.io/)
 
@@ -63,9 +63,9 @@ International Conference on Robotics & Automation (**ICRA**), 2026.
 
 Co-Design of Soft Gripper with Neural Physics
 
-Conference on Robot Learning (**CoRL**), 2025.
+*Conference on Robot Learning* (***CoRL*** 2025)
 
-[[webpage](https://yswhynot.github.io/codesign-soft/)] [[arXiv](https://arxiv.org/pdf/2505.20404)] [[code](https://github.com/yswhynot/codesign-soft-gripper)] [[hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware)] [[spotlight](https://www.youtube.com/watch?v=rh2oxU1MCb0&t=8041)]
+[webpage](https://yswhynot.github.io/codesign-soft/) / [arXiv](https://arxiv.org/pdf/2505.20404) / [code](https://github.com/yswhynot/codesign-soft-gripper) / [hardware](https://github.com/yswhynot/codesign-soft-gripper/tree/main/hardware) / [spotlight](https://www.youtube.com/watch?v=rh2oxU1MCb0&t=8041)
 
 [Sha Yi](https://yswhynot.github.io/)<sup>*</sup>, **Xueqian Bai**<sup>*</sup>, Adabhav Singh, [Jianglong Ye](https://jianglongye.com/), [Michael T. Tolley](https://tolley.eng.ucsd.edu/) and [Xiaolong Wang](https://xiaolonw.github.io/index.html)
 
@@ -84,7 +84,7 @@ Conference on Robot Learning (**CoRL**), 2025.
 
 [A Consistent Round-Up Strategy Based on PPO Path Optimization for the Leader–Follower Tracking Problem](https://www.mdpi.com/1424-8220/23/21/8814)
 
-Oct 2023, Sensors
+*Sensors* 2023
 
 Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
 
@@ -103,7 +103,7 @@ Xiao Wang, Zhaohui Yang, **Xueqian Bai**, Mingjiang Ji, Hao Li and Dechao Ran
 
 [An Improved MADDPG Algorithm Based on Apollonius Circle Guidance and Opponent Modeling for Multi-UAV Pursuit-Evasion Game](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4853581)
 
-Jun 2024, Preprint.
+Preprint 2024
 
 Xiao Wang, **Xueqian Bai**, Zhaohui Yang, Zhe Ma, Kewu Sun, Jiake Li
 

@@ -107,3 +107,37 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Markdown / content links
+a {
+  color: #1b387b;
+  transition: color 0.2s ease;
+  border-bottom: none !important;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important; /* 有些框架用阴影模拟下划线 */
+}
+
+a:hover {
+  color: #af0114;
+}
+
+// Paper card hover effect
+.paper-box {
+  position: relative;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border-radius: 8px;
+  overflow: hidden; // 防止 video 阴影溢出
+}
+
+.paper-box:hover {
+  transform: translateY(-6px);
+  box-shadow:
+    0 10px 30px rgba(0, 0, 0, 0.12),
+    0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.paper-box-image video {
+  display: block;
+  border-radius: 8px;
+}
+
