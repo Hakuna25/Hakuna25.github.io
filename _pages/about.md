@@ -43,7 +43,7 @@ Learning to Design Soft Hands using Reward Models
 
 *International Conference on Robotics & Automation* (***ICRA*** 2026)
 
-[webpage](https://hakuna25.github.io/softhand/) / [arXiv](https://arxiv.org/abs/2510.17086) / [twitter](https://x.com/baicrystal25/status/1983968261579608168)
+[webpage](https://hakuna25.github.io/softhand/) / [arXiv](https://arxiv.org/abs/2510.17086) / [code](https://github.com/Hakuna25/Learning_to_design_softhands/tree/main) / [hardware](https://github.com/Hakuna25/Learning_to_design_softhands/tree/main/hardware) / [twitter](https://x.com/baicrystal25/status/1983968261579608168)
 
 **Xueqian Bai**, [Nicklas Hansen](https://www.nicklashansen.com/), Adabhav Singh, [Michael T. Tolley](https://tolley.eng.ucsd.edu/), [Yan Duan](http://rockyduan.com/), [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/), [Xiaolong Wang](https://xiaolonw.github.io/index.html), [Sha Yi](https://yswhynot.github.io/)
 
